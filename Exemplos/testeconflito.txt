@@ -1,0 +1,3 @@
+exemplo pull
+<<<<<<< HEAD:Exemplos/teste9.txt
+Alexandre
